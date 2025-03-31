@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Mystery+Quest&family=Roboto:wght@300;400;500;700&display=swap");
+
+.WeatherForecast {
+  text-align: center;
+  padding-top: 25px;
+  font-family: "Mystery Quest", "Roboto", sans-serif;
+}
+
+.WeatherForecast .forecast-time {
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+  color: black;
+  font-weight: bold;
+}
+
+.WeatherForecast .forecast-temperature {
+  font-style: normal;
+  font-size: 18px;
+  line-height: 1.5;
+  color: black;
+  font-weight: bold;
+}
+
+.WeatherForecast .forecast-temperature-min {
+  margin-left: 10px;
+  opacity: 0.6;
+}
+
+.Weather .WeatherForecast canvas {
+  display: block;
+  margin: 20px auto;
+}
+
+

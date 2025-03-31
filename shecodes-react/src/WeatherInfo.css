@@ -1,0 +1,35 @@
+.WeatherInfo {
+    margin-top: 20px;
+  }
+  
+  .WeatherInfo .temperature-container {
+    margin-top: 30px;
+    align-items: center;
+  }
+
+  .WeatherInfo .temperature{
+    font-family: "Mystery Quest", "Roboto", sans-serif;
+    font-size: 120px;
+    font-weight: bold;
+    margin-top: 0;
+  }
+
+  .WeatherInfo .unit{
+    font-family: "Mystery Quest", "Roboto", sans-serif;
+    font-size: 60px;
+    font-weight: 500;
+  }
+
+  .WeatherInfo h1{
+    font-family: "Mystery Quest", "Roboto", sans-serif;
+    font-size: 60px;
+    font-weight: bold;
+  }
+
+  .Weather a {
+    color: black;
+  }
+
+
+
+  
