@@ -68,8 +68,8 @@ export default function Weather(props) {
             open-sourced on GitHub
           </a>{" "}
           and{" "}
-          <a href="#" target="_blank" rel="noopener noreferrer">
-            hosted on Netlify
+          <a href="https://fancy-forecast.onrender.com" target="_blank" rel="noopener noreferrer">
+            hosted on Render
           </a>.
         </footer>
       </div>
